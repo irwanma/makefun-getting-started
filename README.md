@@ -8,7 +8,7 @@
 
 No interview. No resume. Just build and win.
 
-> **New here?** Sign up through my referral link: **[make.fun/r/irwanma](https://make.fun/r/irwanma)**
+> **New here?** Sign up through my referral link: **[make.fun/r/j2nfpr3b](https://make.fun/r/j2nfpr3b)**
 >
 > My referral code: **`irwanma`**
 
@@ -48,7 +48,7 @@ No GPU. No cloud bill. No upfront payment.
 
 ### 1. Create your account
 
-Go to **[make.fun/r/irwanma](https://make.fun/r/irwanma)** and click **Sign in** at the top right.
+Go to **[make.fun/r/j2nfpr3b](https://make.fun/r/j2nfpr3b)** and click **Sign in** at the top right.
 
 You can sign in with:
 - **GitHub** (recommended — your repos are your entries)
@@ -185,7 +185,7 @@ Every make.fun account gets a referral link. Share it anywhere — Twitter, Disc
 
 Find your link and track your earnings under **Profile → Referrals**. Every referral reward gets at least a day of review before you can claim it. Only real, active accounts count — bots and idle signups get filtered out by the same system that pays the rewards.
 
-If this guide saved you time, signing up through **[my referral link](https://make.fun/r/irwanma)** (code **`irwanma`**) is the best way to say thanks.
+If this guide saved you time, signing up through **[my referral link](https://make.fun/r/j2nfpr3b)** (code **`j2nfpr3b`**) is the best way to say thanks.
 
 ---
 
@@ -240,4 +240,4 @@ For escrowed bounties: claim immediately once results are posted. For non-escrow
 
 ---
 
-<sub>Built for the make.fun community. New? Join through my referral: [make.fun/r/irwanma](https://make.fun/r/irwanma) · code **`irwanma`**</sub>
+<sub>Built for the make.fun community. New? Join through my referral: [make.fun/r/j2nfpr3b](https://make.fun/r/j2nfpr3b) · code **`j2nfpr3b`**</sub>
